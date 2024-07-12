@@ -1,0 +1,125 @@
+*{padding: 0%;
+    margin: 0%;}
+
+.container{margin: 0 auto;
+    width: 1420px;}
+
+body{font-family: "Atkinson Hyperlegible", sans-serif;}
+
+.logo{height: 80px;width: 100px;}
+    
+.header-area{display: flex;
+        justify-content: space-between;}
+
+.menu ul{display: flex;}
+    
+.menu ul li{
+        margin: 20px;
+        list-style: none;}
+   
+ .menu ul a{
+        text-decoration: none;}
+
+.banner{color: white;
+        background-image:url(image/Rectangle\ 27.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+        height: 400px;
+        display: grid;
+        place-items: center;
+        margin-bottom: 20px;}
+
+h1{height: 59;
+    font-weight: 700;
+    width: 709;}
+
+#about-the-principle{display: flex;
+    }
+
+.form-section{background-color: rgba(128, 128, 128, 0.256);}
+
+img{
+    margin-right: 25px;
+    height: 480px;
+     width: 450px;}
+
+.headline{font-weight: bold;
+    font-size:25px;
+    padding-top: 10px;}
+
+.headline1{font-size: 30px;}
+
+.intro p{padding-top: 10px;}
+.intro ul{padding-top: 10px;}
+.intro button{padding-top: 10px;}
+
+    
+button{border: none;
+      color: white;
+      text-align: center;
+      font-size: 15px;
+      height: 40px;
+      width: auto;
+      margin: 9px 3px;
+      background-color: rgba(11, 164, 11, 0.74);}
+
+ #another{display: flex;
+    }
+            
+ .fillUp{text-align: center; 
+    width: 400px;}
+            
+input{ border: 1px; 
+    border-radius: 10px;
+    width: 370px;
+     height: 50px; 
+     background-color: rgba(174, 169, 229, 0.664);
+    padding-right: 10px;}
+            
+.button1{border: none;
+         color: white;
+         padding: 13px 27px;
+         text-align: center;
+         font-size: 19px;
+         margin: 7px 2px;
+        width: auto;
+        background-color: rgba(3, 87, 3, 0.812);}
+
+
+.circle{ display: flex; justify-content: space-evenly;
+}
+
+.circle-image{width: 180px;
+    height: 180px;
+    }
+
+ .button2{ color: #000;
+     background-color: white;
+     border-style: groove;
+     text-align: center;
+     font-size: 15px;
+     align-items: center;
+    width: auto;}
+
+.second-intro{text-align: center;
+    width: 603px;
+padding:10px;} 
+
+.second-intro h1{font-size: 30px;
+    padding-bottom: 19px;}   
+
+.last-para{
+    padding:25px;
+    gap: 0px;
+    opacity: 0px;
+    }
+.third-intro{text-align: center;
+width: 603px;}    
+
+.finish{font-size: 100px;
+            text-align: center;
+         background-color: rgba(128, 128, 128, 0.256);}
+
+.footer{background-color: #DFE8E6;
+    ;}
